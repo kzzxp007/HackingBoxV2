@@ -61,14 +61,13 @@ HackingBox é uma ferramenta CLI (Command Line Interface) feita em Python que re
 
 ## 🧠 Como usar
 
-```bash
+bash
 git clone https://github.com/kzzxp007/HackingBoxV2
 cd hackingbox
 pip install pyfiglet colorama
-python hackingbox.py´´´
+python hackingbox.py```
 
-
-📟 Comandos internos
+# 📟 Comandos internos
 help → menu principal
 tabelas → menu de ferramentas
 game → inicia jogo
@@ -76,12 +75,13 @@ about → informações do sistema
 system → fastfetch
 tor → inicia Tor
 exit → sair
-⚠️ Aviso legal
+
+# ⚠️ Aviso legal
 
 Ferramenta feita para fins educacionais e de estudo em cibersegurança.
 
 O autor não se responsabiliza pelo uso indevido.
 
-👨‍💻 Autor
+# 👨‍💻 Autor
 kalizzx
 HackingBox V5
