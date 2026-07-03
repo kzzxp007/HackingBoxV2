@@ -65,7 +65,9 @@ HackingBox é uma ferramenta CLI (Command Line Interface) feita em Python que re
 git clone https://github.com/seu-usuario/hackingbox.git
 cd hackingbox
 pip install pyfiglet colorama
-python hackingbox.py```
+python hackingbox.py
+
+
 📟 Comandos internos
 help → menu principal
 tabelas → menu de ferramentas
