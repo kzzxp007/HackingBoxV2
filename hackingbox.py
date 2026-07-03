@@ -235,7 +235,7 @@ def main():
         ║ Versão     : 5.0                                    ║
         ║ Build      : 2026.07                                ║
         ║ Status     : Ativa                                  ║
-        ║ Licença    : MIT                                    ║
+        ║ Licença    : GPL                                    ║
         ╠══════════════════════════════════════════════════════╣
         ║ Módulos Disponíveis                                 ║
         ║ • OSINT                                             ║
