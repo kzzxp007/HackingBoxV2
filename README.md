@@ -78,10 +78,10 @@ exit → sair
 
 # ⚠️ Aviso legal
 
-Ferramenta feita para fins educacionais e de estudo em cibersegurança.
+- Ferramenta feita para fins educacionais e de estudo em cibersegurança.
 
-O autor não se responsabiliza pelo uso indevido.
+- O autor não se responsabiliza pelo uso indevido.
 
 # 👨‍💻 Autor
-kalizzx
-HackingBox V5
+ - kalizzx
+ - HackingBox V5
