@@ -12,7 +12,7 @@ HackingBox é uma ferramenta CLI (Command Line Interface) feita em Python que re
 - **Linguagem:** Python 3
 - **Plataforma:** Termux / Linux
 - **Interface:** CLI (Terminal)
-- **Licença:** MIT
+- **Licença:** GPL
 
 ---
 
